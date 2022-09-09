@@ -1,6 +1,6 @@
 # CHIP8
 
-A simple chip8 emulator written in c.
+A simple chip8 emulator written in C.
 
 # Requirements
 
